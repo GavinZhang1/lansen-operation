@@ -1,0 +1,23 @@
+  {
+    path: '/dirname',
+    name: 'dirname',
+    meta: {
+      icon: 'logo-buffer',
+      title: 'dirname'
+    },
+    component: Main,
+    children: [
+       // dirname-filename
+      {
+        path: 'filename',
+        name: 'filename',
+        meta: {
+          title: 'filename',
+          icon: 'md-arrow-dropdown-circle',
+        },
+        component: () => import('@/view/dirname/filename.vue')
+      }
+      // dirname-filename-end
+      // dirname-childRouter
+    ]
+  },

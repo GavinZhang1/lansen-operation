@@ -1,0 +1,9 @@
+  {
+    path: '/fileName',
+    name: 'fileName',
+    meta: {
+        title: 'fileName',
+        icon: 'md-arrow-dropdown-circle'
+    },
+    component: () => import('@/view/dirName/fileName.vue')
+  },

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0efce1"],{"9a58":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("\n   基础信息/辅料管理\n\t\t")])},u=[],a={name:"vueTpl.vue"},l=a,r=t("2877"),s=Object(r["a"])(l,c,u,!1,null,"31c8dc97",null);n["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0efce1.a0e5e119.js.map

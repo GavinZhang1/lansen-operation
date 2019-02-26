@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e254f"],{"7df2":function(e,n,t){"use strict";t.r(n);var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("\n   基础信息/规格管理\n\t\t")])},c=[],a={name:"vueTpl.vue"},d=a,l=t("2877"),r=Object(l["a"])(d,u,c,!1,null,"3ed47d7b",null);n["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0e254f.009152a2.js.map

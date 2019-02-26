@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2133b1"],{ac92:function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n   基础信息/花色管理\n\t\t")])},a=[],c={name:"vueTpl.vue"},l=c,r=t("2877"),s=Object(r["a"])(l,u,a,!1,null,"12bab7f2",null);e["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d2133b1.7f53e088.js.map
